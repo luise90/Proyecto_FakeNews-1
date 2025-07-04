@@ -21,10 +21,11 @@ Periodismo digital, seguridad informativa, alfabetización mediática y tecnolog
 
 
 ## Alcance
-- Clasificación binaria de noticias (falsas o verdaderas)
-- Preprocesamiento textual
-- Entrenamiento con modelos supervisados
-- Integración opcional con sistemas de alerta o educación digital
+La solución propuesta consiste en implementar un modelo de clasificación de texto utilizando técnicas de procesamiento de lenguaje natural (NLP), orientado a identificar si una noticia es falsa o verdadera. Esto se logrará mediante un enfoque supervisado, entrenando un modelo de machine learning sobre un conjunto de noticias previamente etiquetadas.
+
+El proceso incluirá técnicas de preprocesamiento textual como limpieza, tokenización y vectorización. Posteriormente, se aplicarán algoritmos como regresión logística con TF-IDF, random forests o modelos más avanzados basados en redes neuronales profundas. Además, se utilizarán representaciones vectoriales del texto mediante embeddings para capturar el significado semántico.
+
+El modelo resultante podrá ser integrado por el cliente en plataformas existentes, como sistemas de moderación de contenido, generación de reportes sobre la calidad informativa, o iniciativas educativas para ayudar a los usuarios a identificar noticias falsas.
 
 ## Metodología
 Enfoque TDSP: desde la comprensión del negocio hasta la evaluación y despliegue. Uso de algoritmos como Naive Bayes, Logistic Regression y redes neuronales.

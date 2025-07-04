@@ -49,7 +49,7 @@ Enfoque TDSP: desde la comprensión del negocio hasta la evaluación y despliegu
 Sin costo. Herramientas de código abierto y Google Colab
 
 ## Partes interesadas
-- Plataformas sociales, fact-checkers, gobiernos, medios y ONGs
+- Plataformas sociales, lectores de noticias, fact-checkers, gobiernos, medios, ONGs y patrocinadores del proyecto.
 
 ## Aprobaciones
 - John Mendoza – Responsable del proyecto

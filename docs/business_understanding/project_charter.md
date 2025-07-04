@@ -42,8 +42,8 @@ Enfoque TDSP: desde la comprensión del negocio hasta la evaluación y despliegu
 
 ## Equipo del Proyecto
 - John Mendoza – Analista de datos y líder del proyecto
-- Edison Molano – Analista de datos y líder del proyecto
-- Luis Cardon – Analista de datos y líder del proyecto
+- Edilson Molano – Analista de datos y líder del proyecto
+- Luis Cardona – Analista de datos y líder del proyecto
 
 ## Presupuesto
 Sin costo. Herramientas de código abierto y Google Colab

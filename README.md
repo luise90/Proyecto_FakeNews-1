@@ -75,7 +75,7 @@ Se combinan en un único DataFrame con una columna `label`:
 
 ## 🤝 Contribuciones y Stakeholders
 
-- **Líder del proyecto**: John Mendoza  
+- **Líder del proyecto**: Edison Molano John Mendoza Luis Cardona
 - **Stakeholders**: plataformas sociales, gobiernos, fact-checkers, periodistas
 
 ---

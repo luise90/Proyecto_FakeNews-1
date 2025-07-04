@@ -1,4 +1,4 @@
-# Entendimiento del Negocio
+# exit_report
 
 ## Trasfondo del Negocio
 El presente proyecto está dirigido a entidades como redes sociales, medios de comunicación, agencias de noticias, organizaciones de verificación de datos y gobiernos, que enfrentan el desafío de la desinformación digital. El objetivo es crear una solución automatizada que clasifique contenido informativo como verdadero o falso, basada en procesamiento de lenguaje natural.

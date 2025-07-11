@@ -19,5 +19,6 @@ Tabla de noticias que incluye las siguientes columnas:
 - **Descripción**: breve descripción de la variable.
 - **Rango/Valores posibles**: rango o valores que puede tomar la variable.
 - **Fuente de datos**: fuente de los datos de la variable.
+
     'https://drive.google.com/uc?id=111J3U3feYR0ri6_DlP79CGRL-WsmLiF3'
     'https://drive.google.com/uc?id=18-_Mg6osJGrLmW3baJTgW_-LWcPCopCE'

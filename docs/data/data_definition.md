@@ -100,9 +100,3 @@ def preprocess(text, min_len=1, max_len=23):
     spaces_text = re.sub(spaces, " ", clean_text)
     return spaces_text.strip()
 ```
-
-### Base de datos de destino
-
-- [ ] Especificar la base de datos de destino para los datos.
-- [ ] Especificar la estructura de la base de datos de destino.
-- [ ] Describir los procedimientos de carga y transformación de los datos en la base de datos del destino.

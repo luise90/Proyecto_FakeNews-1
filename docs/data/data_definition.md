@@ -54,7 +54,7 @@ dtypes: int64(1), object(4)
 memory usage: 1.7+ MB
 ```
 Se encuentra que en este dataset, no existen valores nulos. #Código usado: missing_data = df.isnull().sum() /n print("Datos faltantes:\n", missing_data)
-
+```python
 Datos faltantes:
  title      0
 text       0
@@ -62,7 +62,7 @@ subject    0
 date       0
 type       0
 dtype: int64
-
+```
 - Limpieza de los datos:
 La selección de las técnicas de preprocesamiento del corpus puede variar en cada conjunto de datos. Recuerde que puede aplicar (no necesariamente todas) las técnicas generales vistas en el curso, tales como:
 

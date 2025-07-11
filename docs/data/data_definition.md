@@ -19,7 +19,7 @@ fake = ('https://drive.google.com/uc?id=111J3U3feYR0ri6_DlP79CGRL-WsmLiF3')
 true = ('https://drive.google.com/uc?id=18-_Mg6osJGrLmW3baJTgW_-LWcPCopCE')
 df_fake = pd.read_csv(fake, sep=None, engine='python')
 df_true = pd.read_csv(true, sep=None, engine='python')
-
+```
 
 ## Referencias a rutas o bases de datos origen y destino
 
@@ -36,7 +36,7 @@ Para la base de datos de destino, se plantea el versionamiento de estos datos a 
     'https://drive.google.com/uc?id=18-_Mg6osJGrLmW3baJTgW_-LWcPCopCE'
 
 - La estructura de los datos se presenta a continuación:   #Código Usado: df.info()
-
+```python
     Index(['title', 'text', 'subject', 'date', 'type'], dtype='object')
 
 
@@ -52,7 +52,7 @@ Data columns (total 5 columns):
  4   type     44898 non-null  int64 
 dtypes: int64(1), object(4)
 memory usage: 1.7+ MB
-
+```
 Se encuentra que en este dataset, no existen valores nulos. #Código usado: missing_data = df.isnull().sum() /n print("Datos faltantes:\n", missing_data)
 
 Datos faltantes:
@@ -99,7 +99,7 @@ def preprocess(text, min_len=1, max_len=23):
     # Eliminamos espacios duplicados
     spaces_text = re.sub(spaces, " ", clean_text)
     return spaces_text.strip()
-
+```
 
 ### Base de datos de destino
 
